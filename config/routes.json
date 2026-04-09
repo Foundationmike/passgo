@@ -5,7 +5,7 @@
     "subjectPatterns": ["verification code", "verify your"],
     "codePattern": "\\b(\\d{6})\\b",
     "recipients": [
-      { "name": "Friend", "email": "friend@example.com" }
+      { "name": "Justin", "email": "Justin.Fleischer@gmail.com" }
     ]
   },
   {
@@ -14,7 +14,7 @@
     "subjectPatterns": ["verification code", "verify your", "sign-in code"],
     "codePattern": "\\b(\\d{6})\\b",
     "recipients": [
-      { "name": "Friend", "email": "friend@example.com" }
+      { "name": "Justin", "email": "Justin.Fleischer@gmail.com" }
     ]
   }
 ]
